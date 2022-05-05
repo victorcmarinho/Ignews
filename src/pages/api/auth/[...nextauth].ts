@@ -47,7 +47,6 @@ export default NextAuth({
       }
     },
     async signIn(user, account, profile) {
-      debugger;
       const { email } = user;
 
       try {
