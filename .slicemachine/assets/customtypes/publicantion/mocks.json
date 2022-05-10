@@ -1,0 +1,26 @@
+{
+  "id": "8829439c-d553-4b0a-8bb6-63742591fed1",
+  "uid": "non-qui-sed",
+  "type": "publicantion",
+  "data": {
+    "title": [
+      {
+        "type": "paragraph",
+        "text": "Consequat ipsum et minim commodo consequat in velit aliqua. In do laboris duis cupidatat commodo officia enim occaecat incididunt consequat id ullamco sit non do.",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "heading1",
+        "text": "Maximize seamless synergies",
+        "spans": []
+      },
+      {
+        "type": "paragraph",
+        "text": "Aliquip cupidatat culpa voluptate mollit minim ipsum amet occaecat veniam exercitation tempor labore non adipisicing. Anim id adipisicing aliqua aliqua proident magna eiusmod esse. Ea officia velit dolor.",
+        "spans": []
+      }
+    ]
+  }
+}

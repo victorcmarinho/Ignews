@@ -1,0 +1,21 @@
+{
+  "id": "4c563f9c-abbf-4ae6-a79f-201e5430a51a",
+  "uid": "exercitationem-minima-dolorem",
+  "type": "publication",
+  "data": {
+    "title": [
+      {
+        "type": "paragraph",
+        "text": "Ullamco consectetur ut pariatur est. Sint cillum dolor proident.",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Irure fugiat sunt velit esse. Officia excepteur ex magna. Excepteur do incididunt est duis quis.",
+        "spans": []
+      }
+    ]
+  }
+}

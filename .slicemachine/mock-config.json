@@ -1,0 +1,13 @@
+{
+  "_cts": {
+    "publicantion": {
+      "content": {
+        "config": {
+          "patternType": "STORY",
+          "blocks": 1
+        }
+      }
+    },
+    "publication": {}
+  }
+}
